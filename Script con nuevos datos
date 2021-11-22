@@ -1,0 +1,59 @@
+USE Registro;
+
+/* REGISTRO 01 */ 
+INSERT INTO Registro (id_Cliente , Nombre , Ap_Paterno , Ap_Materno , DNI , Calle , Distrito , Provincia , Departamento , Telefono_Movil , Telefono_Fijo , EmaiL) VALUES
+('0001' , 'Pedro' , 'Alcala' , 'Sainz' , '1346879' , 'Comercio' , 'San Luis' , 'Cañete' , 'Lima' , '316497852' , '1349665' , 'Pedro.Sainz@gmail.com');
+
+USE Registro;
+
+/* REGISTRO 02 */ 
+INSERT INTO Registro (id_Cliente , Nombre , Ap_Paterno , Ap_Materno , DNI , Calle , Distrito , Provincia , Departamento , Telefono_Movil , Telefono_Fijo , EmaiL) VALUES 
+('0002' , 'Juana' , 'Aranda' , 'Serna' , '2785953' , '28 de Julio' , 'Imperial' , 'Cañete' , 'Lima' , '112567747' , '1349957' , 'Juana.Aranda@gmail.com');
+
+USE Registro;
+
+/* REGISTRO 03 */ 
+INSERT INTO Registro (id_Cliente , Nombre , Ap_Paterno , Ap_Materno , DNI , Calle , Distrito , Provincia , Departamento , Telefono_Movil , Telefono_Fijo , EmaiL) VALUES 
+('0003' , 'Rocio' , 'Chacón' , 'Naves' , '2456482' , '2 de Mayo' , 'San Vicente' , 'Cañete' , 'Lima' , '127789564' , '1245785' , 'Rocio.Naves@gmail.com');
+
+USE Registro;
+
+/* REGISTRO 04 */ 
+INSERT INTO Registro (id_Cliente , Nombre , Ap_Paterno , Ap_Materno , DNI , Calle , Distrito , Provincia , Departamento , Telefono_Movil , Telefono_Fijo , EmaiL) VALUES 
+('0004' , 'Elisa' , 'Ocampo' , 'Nieto' , '4562345' , 'Jirón Ayacucho' , 'Quilmana' , 'Cañete' , 'Lima' , '333748859' , '4586375' , 'Elisa.Ocampo@gmail.com');
+ 
+USE Registro;
+
+/* REGISTRO 05 */ 
+INSERT INTO Registro (id_Cliente , Nombre , Ap_Paterno , Ap_Materno , DNI , Calle , Distrito , Provincia , Departamento , Telefono_Movil , Telefono_Fijo , EmaiL) VALUES 
+('0005' , 'Luisa' , 'Santos' , 'Salas' , '5542854' , 'Upis' , 'San Luis' , 'Cañete' , 'Lima' , '457446821' , '7589654' , 'Luisa.Santos@gmail.com');
+
+USE Registro;
+
+/* REGISTRO 06 */ 
+INSERT INTO Registro (id_Cliente , Nombre , Ap_Paterno , Ap_Materno , DNI , Calle , Distrito , Provincia , Departamento , Telefono_Movil , Telefono_Fijo , EmaiL) VALUES 
+('0006' , 'Celia' , 'Quirós' , 'Ojeda' , '5174185' , 'Santo Solano' , 'San Luis' , 'Cañete' , 'Lima' , '421578445' , '4574224' , 'Celia.Ojeda@gmail.com');
+
+USE Registro;
+
+/* REGISTRO 07 */ 
+INSERT INTO Registro (id_Cliente , Nombre , Ap_Paterno , Ap_Materno , DNI , Calle , Distrito , Provincia , Departamento , Telefono_Movil , Telefono_Fijo , EmaiL) VALUES 
+('0007' , 'Maria' , 'Rivero' , 'Ochoa' , '4254445' , 'Santa Rosa' , 'Imperial' , 'Cañete' , 'Lima' , '457444689' , '4578996' , 'Maria.Rivera@gmail.com');
+
+USE Registro;
+
+/* REGISTRO 08 */ 
+INSERT INTO Registro (id_Cliente , Nombre , Ap_Paterno , Ap_Materno , DNI , Calle , Distrito , Provincia , Departamento , Telefono_Movil , Telefono_Fijo , EmaiL) VALUES 
+('0008' , 'Erick' , 'Nogues' , 'Duran' , '5342422' , 'Jirón Loreto' , 'Quilmana' , 'Cañete' , 'Lima' , '246998513' , '5389621' , 'Erick.Duran@gmail.com');
+
+USE Registro;
+
+/* REGISTRO 09 */ 
+INSERT INTO Registro (id_Cliente , Nombre , Ap_Paterno , Ap_Materno , DNI , Calle , Distrito , Provincia , Departamento , Telefono_Movil , Telefono_Fijo , EmaiL) VALUES 
+('0009' , 'Derek' , 'Llanos' , 'Cañas' , '4243532' , 'Santa Rosa' , 'San Vicente' , 'Cañete' , 'Lima' , '525789654' , '4231565' , 'Drek.Llanos@gmail.com');
+
+USE Registro;
+
+/* REGISTRO 10 */ 
+INSERT INTO Registro (id_Cliente , Nombre , Ap_Paterno , Ap_Materno , DNI , Calle , Distrito , Provincia , Departamento , Telefono_Movil , Telefono_Fijo , EmaiL) VALUES 
+('0010' , 'Kalet' , 'Guerra' , 'Canal' , '4278997' , '28 de Julio' , 'San Vicente' , 'Cañete' , 'Lima' , '451973246' , '7896523' , 'Kalet.Canal@gmail.com');
